@@ -1,3 +1,3 @@
 readme
 readme
-readme
+Creating a new branch is quick & simple.
